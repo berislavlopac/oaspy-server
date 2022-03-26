@@ -1,0 +1,9 @@
+site_name: OASpy Server Documentation
+site_url: https://oaspy-server.readthedocs.io
+repo_url: https://github.com/berislavlopac/oaspy-server
+site_description: HTTP server for services based on OpenAPI specification.
+site_author: Berislav Lopac <berislav@lopac.net>
+theme:
+  name: readthedocs
+nav:
+  - index.md
